@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pokras" size="1.000000 1.406593" />
+    <ImageTarget name="Barabany" size="1.000000 1.414516" />
+    <ImageTarget name="Dostoevsky" size="1.000000 1.588089" />
+    <ImageTarget name="kbVINE" size="1.000000 1.406250" />
+  </Tracking>
+</QCARConfig>
